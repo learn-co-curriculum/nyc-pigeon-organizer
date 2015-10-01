@@ -1,8 +1,9 @@
-
-
 ## NYC Pigeon Organizer
 
-### Skills: Hashes, Iteration, Sorting
+## Objectives
+
+1. Understand Hashes and Nesting
+2. Work on Sorting Hashes and manipulating nested data structures.
 
 ## Instructions
 
@@ -38,12 +39,12 @@ pigeon_list = {
   "Theo" => {
     :color => ["purple", "grey"],
     :gender => ["male"],
-    :lives => ["Subway]"
+    :lives => ["Subway"]
   },
   "Peter Jr." => {
     :color => ["purple", "grey"],
     :gender => ["male"],
-    :lives => ["Library]"
+    :lives => ["Library"]
   },
   "Lucky" => {
     :color => ["purple"],
@@ -73,3 +74,4 @@ pigeon_list = {
 }
 ```
 
+TEST
